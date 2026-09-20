@@ -1,8 +1,4 @@
 Me thang bao beo ngu vcl ra
 
-<<<<<<< HEAD
 vcl chịu luôn đấy
 
-=======
-Đi chơi với anh không
->>>>>>> 2ff6cc9abd1dd9027d2ae3b0462503e6785be79b
