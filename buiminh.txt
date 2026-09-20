@@ -1,1 +1,4 @@
 Me thang bao beo ngu vcl ra
+
+vcl chịu luôn đấy
+
